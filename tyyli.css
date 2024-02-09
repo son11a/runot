@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+}
+div {
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    margin: 0% 15% 0% 15%;
+}
+.header1 {
+    background-image: url("sadetta.jpg")
+   
+  
+}
+
+.header1 h1 {
+    font-size: 60px;
+    color: white;
+}
+.header2 h1 {
+    font-size: 60px;
+    color: white;
+}
+
+.header2 {
+    background-image: url("tuli.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.header3 {
+    background-image: url("flowers.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.header3 h1 {
+    font-size: 60px;
+    color: rgb(22, 21, 21);
+}
+
+.header4 h1 {
+    font-size: 60px;
+    color: rgb(29, 27, 27);
+}
+.header4 {
+    background-image: url("perhoset.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+div1 {
+    text-align: left;
+}
